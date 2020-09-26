@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **React-Native, Unity, GatsbyJS**
 
-- 📝 I regulary write articles on [https://peterwitham.com](https://peterwitham.com)
+- 📝 I regulary write articles on [https://peterwitham.com](https://peterwitham.com) & [https://compileswift.com](https://compileswift.com)
+
+- I also create Podcasts, [CompileSwift](https://anchor.fm/compileswift), [The Life Creative](https://anchor.fm/peter-witham)
 
 - 💬 Ask me about **Swift**
 
