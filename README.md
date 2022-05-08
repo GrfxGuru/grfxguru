@@ -5,7 +5,7 @@
 
 - 📝 I regulary write articles on [https://peterwitham.com](https://peterwitham.com) & [https://compileswift.com](https://compileswift.com)
 
-- :headphones: I also create Podcasts, [CompileSwift](https://anchor.fm/compileswift), [The Life Creative](https://anchor.fm/peter-witham)
+- :headphones: I also create Podcasts, [CompileSwift](https://compileswift.transistor.fm/), [A Creators Journey](https://pwpodcast.transistor.fm/)
 
 - 💬 Ask me about **Swift**
 
