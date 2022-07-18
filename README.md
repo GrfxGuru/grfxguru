@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Peter Witham</h1>
 <h3 align="center">I am passionate about learning new things and sharing back with the community.</h3>
 
-- 🌱 I’m currently learning **React-Native, Unity, GatsbyJS**
-
 - 📝 I regulary write articles on [https://peterwitham.com](https://peterwitham.com) & [https://compileswift.com](https://compileswift.com)
 
-- :headphones: I also create Podcasts, [CompileSwift](https://compileswift.transistor.fm/), [A Creators Journey](https://pwpodcast.transistor.fm/)
+- :headphones: I also create Podcasts, [CompileSwift](https://compileswift.transistor.fm/), [A Creators Journey](https://pwpodcast.transistor.fm/), [UIBuzz](https://uibuzz.transistor.fm/)
 
-- 💬 Ask me about **Swift**
 
 - ⚡ Fun fact **Love Coffee!**
 
@@ -20,7 +17,16 @@
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grfxguru&show_icons=true" alt="grfxguru" /></p>
+<table>
+<tr style="vertical-align:top">
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=grfxguru&show_icons=true" alt="grfxguru" />
+</td>
+<td>
+<a href="https://app.daily.dev/PWitham"><img src="https://api.daily.dev/devcards/485c7c9752db46c1ba8469c0478a8356.png?r=6j7" width="400" alt="Peter Witham's Dev Card"/></a>
+</td>
+</tr>
+</table>
 
 <p align="center"> 
 <a href="https://twitter.com/compileswift" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="compileswift" height="30" width="30" /></a>
