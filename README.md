@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=grfxguru&show_icons=true" alt="grfxguru" />
 </td>
 <td>
-<a href="https://app.daily.dev/PWitham"><img src="https://api.daily.dev/devcards/485c7c9752db46c1ba8469c0478a8356.png?r=6j7" width="400" alt="Peter Witham's Dev Card"/></a>
+<a href="https://app.daily.dev/pwitham"><img src="https://api.daily.dev/devcards/v2/zSPHgbmgf.png?type=default&r=e11" width="356" alt="Peter Witham's Dev Card"/></a>
 </td>
 </tr>
 </table>
